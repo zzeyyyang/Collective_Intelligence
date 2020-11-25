@@ -1,2 +1,2 @@
 # Collective_Intelligence
-Code from the book Programming Collective Intelligence
+Codes from the book Programming Collective Intelligence
